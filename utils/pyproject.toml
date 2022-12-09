@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "src-utils"
+version = "0.1.0"
+description = "valhdez"
+authors = ["valhdez"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "src_utils"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

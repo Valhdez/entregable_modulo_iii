@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+scikit-learn
+typing
+pyment
+poetry
+pytest
+pycodestyle
+tox

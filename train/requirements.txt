@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+sklearn
+feature_engine
+joblib
+requests
+fastapi
+uvicorn
+pyment
+poetry
+names
+pytest
+pycodestyle
+tox
+../utils/dist/src_utils-0.1.0.tar.gz
+#ENTREGABLE_MODULO_III/train/dist/src_train-0.1.0.tar.gz
